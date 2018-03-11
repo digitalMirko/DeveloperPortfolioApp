@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Developer Portfolio App</string>
+    <string name="my_name">Mirko Cukich</string>
+    <string name="profession">Python, iOS, Java &amp; Android Developer</string>
+
+    <string name="about_mirko">Hello, my name is Mirko. "\n"I am the founder of DigitalMirko, an App Development Company that develops apps in Python, iOS (Swift, Objective-C),
+        Java and for the Android platform. We have a number of apps available for the Android platform in the Google play store."\n"Along with an assortment of apps available
+        in the iTunes store for iOS devices."\n"On our website we have more detailed information about the various apps we have developed and worked on.
+        Stop by and check us out when you have a chance.</string>
+
+    <string name="work">A taste of some of our apps we have developed."\n"**** Android Platform ****"\n"* Crab Spinner App "\n"* Flag Quiz App "\n"* Compass App "\n"* Noughts and Crosses
+        "\n"* Mind Reader App "\n"* Stopwatch App"\n"* Mobile Vision Barcode App "\n"* QR Code Scanner ZXing App "\n"* Fibonacci Calculator
+         "\n"**** iOS Platform ****"\n"* Quiz Time App "\n"* My Answer "\n"* iLotto Picker</string>
+
+    <string name="skills">* Java "\n"* iOS &amp; MacOS (Swift &amp; Objective-C) "\n"* Android "\n"* Python "\n"* MySQL Database Development</string>
+
+    <string name="contact">
+
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
